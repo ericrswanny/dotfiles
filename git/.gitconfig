@@ -1,0 +1,7 @@
+[user]
+	name = Eric Swanson
+	email = es20641@gmail.com
+[init]
+	defaultBranch = master
+[pull]
+	rebase = false
